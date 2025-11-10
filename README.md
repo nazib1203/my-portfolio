@@ -35,4 +35,4 @@ You can download or view my latest resume here:
 
 
 
-⭐ **If you like my portfolio, don’t forget to star this repo!**
+
